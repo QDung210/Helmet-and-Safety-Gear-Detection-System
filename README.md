@@ -86,8 +86,8 @@ You can also perform predictions on a video file or stream:
 The model has shown promising results, achieving high accuracy in detecting the target objects in real-time on video and image streams.
 
 Example Detection:
-- F1-score, Precision, and Recall graphs are available in the runs/ directory.
-- Sample images showing detection results are also stored in runs/.
+- F1-score, Precision, and Recall graphs are available in the All_graphs/.
+- Sample images showing detection results are stored in predict/.
 
 ## Future Improvements
 
