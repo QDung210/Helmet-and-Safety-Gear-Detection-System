@@ -1,0 +1,5 @@
+train: /content/ultralytics/Helmet_detect_dataset/images/train
+val: /content/ultralytics/Helmet_detect_dataset/images/val
+path: /content/ultralytics/Helmet_detect_dataset
+nc: 4
+names: [helmet, vest, head, person]
